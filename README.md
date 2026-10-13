@@ -21,24 +21,4 @@ A self-contained, browser-playable, neon-themed 2D highway racing game built wit
 | Pause/resume | `P` | — |
 | Start/restart | `Enter` | Start button |
 
-## Run locally
-Open `index.html` in a modern browser. No installation required.
 
-## Publish on GitHub Pages
-1. Back up your existing repository files.
-2. Upload `index.html`, `style.css`, and `game.js` to the repository root on the publishing branch.
-3. Go to **Settings → Pages → Build and deployment**.
-4. Select **Deploy from a branch**, your publishing branch (often `main`), and `/(root)`.
-5. Once deployment succeeds, open `https://basiliskouloumpis.github.io/Furious/`.
-
-## File structure
-```
-Furious/
-├── index.html
-├── style.css
-├── game.js
-└── README.md
-```
-
-## License
-The newly authored source code in this package may be used and modified for this project. Review any existing repository assets and their licenses separately before merging.
